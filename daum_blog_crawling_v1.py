@@ -5,8 +5,8 @@
 
 from urllib.error import HTTPError
 from urllib import parse
-
 import requests
+
 from bs4 import BeautifulSoup
 import urllib.request as req
 import urllib
