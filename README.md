@@ -3,5 +3,5 @@
 
 ### 가상환경 설정
 ```bash
-$ python -m venv ~/wiseincompany/webBlogCrawler
+$ python -m venv <프로잭트 경로>
 ```
